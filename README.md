@@ -11,3 +11,5 @@ This is my Maven project from MuleSoft's advanced development class
 
 1. Package and deploy: `mvn install`
 
+This project has been extended with properties and variables.
+
