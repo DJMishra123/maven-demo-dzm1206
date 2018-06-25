@@ -28,7 +28,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>${mule.version}</muleVersion>
+					<muleVersion>2.0</muleVersion>
 					<username>${uid}</username>
 					<password>${pwd}</password>
 					<workerType>Micro</workerType>
